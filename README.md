@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chimeremma.
-- 🤳 A Wife, Mom, Lecturer and tech-enthusiast!  
+- 🤳 A Wife, Mom, Lecturer and tech-tivist!  
 - 👀 I’m interested in Artificial Intelligence, Machine Learning and as a matter of fact, anything techy!
 - 🌱 I’m currently learning to be a fullstack dev.,data scientist, machine-learning-expert and more 
 - 💞️ I’m looking to Learn and collaborate on projects that involve machine learning, computer vision and web development.
